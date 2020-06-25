@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_github_users">Cari user Github</string>
+    <string name="no_users_found">User tidak ditemukan.</string>
+    <string name="no_result">Tidak Ada Hasil</string>
+    <string name="end_of_result">Akhir Pencarian</string>
+    <string name="no_internet">Tidak Ada Koneksi Internet</string>
+</resources>

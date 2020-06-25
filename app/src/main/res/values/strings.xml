@@ -1,0 +1,7 @@
+<resources>
+    <string name="search_github_users">Search Github users</string>
+    <string name="no_users_found">No Users Found.</string>
+    <string name="no_result">No Result</string>
+    <string name="end_of_result">End of Result</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
